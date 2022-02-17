@@ -1,0 +1,23 @@
+#
+# This file tells git what to ignore, hense the name, .gitignore.
+# This file basically makes it so you don't have to see the hundreds of test worlds i make while making the modpack.
+# It also means that your controls wont be overwritten when you update the modpack, you're very welcome.
+#
+# - PRE
+#
+
+# Directories
+.minecraft/logs
+.minecraft/saves
+.minecraft/screenshots
+
+# Files
+.minecraft/options.txt
+.minecraft/usercache.json
+.minecraft/realms_persistence.json
+
+instance.cfg
+
+# Things multimc will add if missing anyway
+natives
+.fabric
