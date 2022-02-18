@@ -6,6 +6,19 @@ Mods up to date as of: Thursday 17 Febuary 2022
 
 ## Client Side
 ---
-- [modmenu 3.0.1](https://www.curseforge.com/minecraft/mc-mods/modmenu)
-- [sodium 0.4.0-alpha6](https://www.curseforge.com/minecraft/mc-mods/sodium)
-- [sodium extra 0.3.9](https://www.curseforge.com/minecraft/mc-mods/sodium-extra)
+
+### Utiliy
+
+- [modmenu](https://www.curseforge.com/minecraft/mc-mods/modmenu)
+- [sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)
+- [sodium extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra)
+- [iris shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders)
+
+### UI
+
+- [fancymenu](https://www.curseforge.com/minecraft/mc-mods/fancymenu-forge)
+- [custom splash screen](https://www.curseforge.com/minecraft/mc-mods/custom-splash-screen)
+
+### HUD
+
+- [advanced compass](https://www.curseforge.com/minecraft/mc-mods/advanced-compass)
