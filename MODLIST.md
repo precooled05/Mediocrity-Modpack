@@ -1,6 +1,6 @@
-<h1 align=center> Atrocity Modpack Modlist </h1> 
+<h1 align=center> Mediocrity Modpack Modlist </h1> 
 
-This is a full modlist for the modpack.
+This is a full modlist for the modpack (not including dependencies).
 
 Mods up to date as of: Thursday 17 Febuary 2022
 

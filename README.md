@@ -1,2 +1,2 @@
-<h1 align=center>Atrocity Modpack</h1>
+<h1 align=center>Mediocrity Modpack</h1>
 

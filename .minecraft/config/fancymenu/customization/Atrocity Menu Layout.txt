@@ -90,7 +90,7 @@ customization {
   y = -22
   scale = 1.0
   alignment = left
-  value = Atrocity Modpack by: PRE
+  value = Mediocrity Modpack by: PRE
 }
 
 customization {
