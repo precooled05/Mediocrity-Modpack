@@ -1,0 +1,51 @@
+{
+  "defaultConfig": {
+    "enabled": true,
+    "type": "LINEAR",
+    "linearFogStartMult": 0.2184,
+    "linearFogEndMult": 0.9323,
+    "expFogMult": 3.0,
+    "exp2FogMult": 1.75,
+    "cylinderFog": false
+  },
+  "waterConfig": {
+    "enabled": true,
+    "type": "LINEAR",
+    "linearFogStartMult": 0.0,
+    "linearFogEndMult": 0.3829,
+    "expFogMult": 5.0,
+    "exp2FogMult": 5.0,
+    "cylinderFog": false
+  },
+  "snowConfig": {
+    "enabled": true,
+    "type": "LINEAR",
+    "linearFogStartMult": 0.0,
+    "linearFogEndMult": 1.4,
+    "expFogMult": 85.0,
+    "exp2FogMult": 9800.05,
+    "cylinderFog": false
+  },
+  "dimensions": {
+    "minecraft:the_nether": {
+      "enabled": true,
+      "type": "LINEAR",
+      "linearFogStartMult": 0.4625,
+      "linearFogEndMult": 1.0,
+      "expFogMult": 3.0,
+      "exp2FogMult": 1.75,
+      "cylinderFog": false
+    },
+    "minecraft:the_end": {
+      "enabled": true,
+      "type": "LINEAR",
+      "linearFogStartMult": 0.7749,
+      "linearFogEndMult": 1.0,
+      "expFogMult": 3.0,
+      "exp2FogMult": 1.75,
+      "cylinderFog": false
+    }
+  },
+  "videoOptionsButton": true,
+  "hasClosedToast": false
+}

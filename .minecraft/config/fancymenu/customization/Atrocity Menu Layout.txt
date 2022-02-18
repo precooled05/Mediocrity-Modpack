@@ -105,27 +105,3 @@ customization {
   value = Minecraft: %mcversion% | Fabric Modloader
 }
 
-customization {
-  orientation = top-left
-  shadow = false
-  x = 4
-  actionid = d3007b14-fcc3-4ce8-a8ad-70ff4e9f84fe1645138220031
-  action = addtext
-  y = 4
-  scale = 0.8
-  alignment = left
-  value = Current RAM Usage: %usedram% 
-}
-
-customization {
-  orientation = top-left
-  shadow = false
-  x = 4
-  actionid = 17e1fc57-f9bf-4c93-817d-72176af87f901645138431072
-  action = addtext
-  y = 14
-  scale = 0.8
-  alignment = left
-  value = Max RAM Available: %maxram%
-}
-

@@ -17,7 +17,7 @@ I:defaultguiscale = '-1';
 
 ##[customization]
 
-B:advancedmode = 'false';
+B:advancedmode = 'true';
 B:showcustomizationbuttons = 'false';
 
 
@@ -27,7 +27,7 @@ S:copyrightposition = 'bottom-right';
 B:hidebranding = 'true';
 S:copyrightcolor = '#ffffff';
 B:hidelogo = 'false';
-B:hiderealmsnotifications = 'false';
+B:hiderealmsnotifications = 'true';
 
 
 ##[mainmenu_splash]
@@ -47,7 +47,7 @@ B:allowgameintroskip = 'true';
 S:loadinganimationcolor = '#ffffffff';
 B:showanimationloadingstatus = 'true';
 S:gameintroanimation = '';
-B:preloadanimations = 'false';
+B:preloadanimations = 'true';
 S:customgameintroskiptext = '';
 
 
@@ -56,7 +56,7 @@ S:customgameintroskiptext = '';
 [A minecraft restart is required after changing this value.]
 S:customwindowtitle = 'Minecraft 1.18.1 | Mediocrity Modpack | Fabric';
 [A minecraft restart is required after changing this value.]
-B:customwindowicon = 'false';
+B:customwindowicon = 'true';
 
 
 ##[world_loading_screen]
@@ -86,4 +86,4 @@ B:showvanillamovewarning = 'true';
 
 ##[ui]
 
-F:uiscale = '1.4';
+F:uiscale = '2';

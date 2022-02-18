@@ -6,11 +6,11 @@
 	// Enable/Disable the background image
 	"backgroundImage": false,
 	// Change the color of the background
-	"backgroundColor": 1052688,
+	"backgroundColor": 983072,
 	// Change the color of the progress bar
-	"progressBarColor": 16564214,
+	"progressBarColor": 14391807,
 	// Change the color of the progress bar frame
-	"progressFrameColor": 16214761,
+	"progressFrameColor": 16754137,
 	// Change the mode of the custom loading bar
 	"customProgressBarMode": "Linear",
 	// Enable/Disable the custom progress bar background
@@ -19,7 +19,7 @@
 	"bossBarType": "NOTCHED_6",
 	"textures": {
 		"BackgroundTexture": "background.png",
-		"MojangLogo": "mojangstudios.png",
+		"MojangLogo": "../../../assets/art/logo/splash_logo.png",
 		"Aspect1to1Logo": "mojank.png",
 		"BossBarTexture": "textures/gui/bars.png",
 		"CustomBarTexture": "progressbar.png",
