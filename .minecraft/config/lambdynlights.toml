@@ -20,12 +20,15 @@ mode = "fancy"
 		[light_sources.settings.entities]
 
 			[light_sources.settings.entities.minecraft]
+				panda = true
 				axolotl = true
 				bee = true
+				arrow = true
 				cow = true
 				magma_cube = true
 				pig = true
 				skeleton = true
+				llama = true
 				bat = true
 				hoglin = true
 				rabbit = true

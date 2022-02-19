@@ -11,7 +11,7 @@
   "enableInWorldMapRendering": true,
   "enableOffhandHiding": true,
   "enableRotationLocking": true,
-  "enableLadderAnimation": true,
+  "enableLadderAnimation": false,
   "enableRotateToLadder": true,
   "enableEatDrinkAnimation": true,
   "enableRowBoatAnimation": true,
