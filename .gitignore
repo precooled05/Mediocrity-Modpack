@@ -21,3 +21,8 @@ instance.cfg
 # Things multimc will add if missing anyway
 natives
 .fabric
+
+
+# mod configs
+.minecraft/XaeroWaypoints
+.minecraft/XaeroWorldmap
