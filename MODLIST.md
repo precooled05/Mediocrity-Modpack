@@ -4,6 +4,10 @@ This is a full modlist for the modpack (not including dependencies).
 
 Mods up to date as of: Thursday 17 Febuary 2022
 
+## Resource Packs
+
+[Better Leaves](https://www.curseforge.com/minecraft/texture-packs/motschens-better-leaves)
+
 ## Client Side
 
 ### Utiliy
@@ -19,6 +23,7 @@ Mods up to date as of: Thursday 17 Febuary 2022
 
 - [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling) - Keybind search
 - [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks)
+- [Chat Heads](https://www.curseforge.com/minecraft/mc-mods/chat-heads)
 
 ### UI
 
@@ -27,23 +32,34 @@ Mods up to date as of: Thursday 17 Febuary 2022
 
 ### HUD
 
-- [Advanced Compass](https://www.curseforge.com/minecraft/mc-mods/advanced-compass)
+- [Xaeros Mnimap (Fair Play Edition)](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
 
 ### Gameplay Changes
 
 - [Better Dropped Items](https://www.curseforge.com/minecraft/mc-mods/better-dropped-items)
 - [Better Thrid Person](https://www.curseforge.com/minecraft/mc-mods/better-third-person)
-- [First Person Model](https://www.curseforge.com/minecraft/mc-mods/first-person-model/files)
 - [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights)
+- [Xaeros World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
 
 ### Cosmetic Enhancements
 
 - [Visuality](https://www.curseforge.com/minecraft/mc-mods/visuality)
 - [Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations)
 - [Camera Overhaul](https://www.curseforge.com/minecraft/mc-mods/cameraoverhaul)
+- [Falling Leaves](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric)
+
+### Sound
+
+- [Dynamic Sound Filters](https://www.curseforge.com/minecraft/mc-mods/dynamic-sound-filters)
+- [Presence Footsteps](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps)
 
 
-## Server Side
+### Performance
+
+- [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves)
+
+
+## Client Server Side
 ___
 ### Warning!
 It's not recommended that you remove any server side mods because you will likely be unable to join any servers using the modpack
@@ -68,12 +84,18 @@ ___
 ### Gameplay Changes
 
 - [PlayerEX](https://www.curseforge.com/minecraft/mc-mods/playerex) - RPG-like player skills, nothing too OTT tho.
-- [Dehydration](https://www.curseforge.com/minecraft/mc-mods/dehydration) - Adds thirst to minecraft (shock & horror ik)
 - [Farming For Blockheads](https://www.curseforge.com/minecraft/mc-mods/farming-for-blockheads)
-- [Paintings++](https://www.curseforge.com/minecraft/mc-mods/paintings/)
 - [Visual Workbench](https://www.curseforge.com/minecraft/mc-mods/visual-workbench-fabric)
 - [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones-fabric)
 - [You're in Grave Danger](https://www.curseforge.com/minecraft/mc-mods/youre-in-grave-danger?page=2) - Adds player graves
+
+
+### Quality of Life
+
+- [Couplings](https://www.curseforge.com/minecraft/mc-mods/couplings) - Allows you to open double doors in one click
+- [Paintings++](https://www.curseforge.com/minecraft/mc-mods/paintings)
+- [Damage Tilt](https://www.curseforge.com/minecraft/mc-mods/damage-tilt)
+- [Edit Sign](https://www.curseforge.com/minecraft/mc-mods/edit-sign)
 
 ### New Things
 
@@ -87,3 +109,5 @@ ___
 - [Creeper Overhaul](https://www.curseforge.com/minecraft/mc-mods/creeper-overhaul)
 - [More Axolotles](https://www.curseforge.com/minecraft/mc-mods/more-axolotls)
 - [Tiny Skeletons](https://www.curseforge.com/minecraft/mc-mods/tiny-skeletons-fabric) - Adds baby skeletons
+- [Villager Names](https://www.curseforge.com/minecraft/mc-mods/villager-names-fabric-version)
+- [NPC Veriety](https://www.curseforge.com/minecraft/mc-mods/npc-variety-port)
