@@ -53,6 +53,11 @@ ___
 
 - [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight/download/3554912) - Lighting engine rewrite
 - [Ferrite Core](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric)
+- [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium/files/all)
+- [Krypton](https://www.curseforge.com/minecraft/mc-mods/krypton)
+- [LazyDFU](https://modrinth.com/mod/lazydfu) - Cut launch time by 10 seconds, big pog
+- [Spark](https://spark.lucko.me/)
+- [Carpet](https://www.curseforge.com/minecraft/mc-mods/carpet/files/all)
 
 ### World Changes
 
